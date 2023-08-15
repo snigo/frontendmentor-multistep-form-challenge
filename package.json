@@ -1,0 +1,36 @@
+{
+  "name": "frontendmentor-multistep-form-challenge",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint",
+    "prepare": "husky install",
+    "test:e2e": "playwright test"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "next": "^13.4.16",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  },
+  "devDependencies": {
+    "@playwright/test": "^1.37.0",
+    "@types/node": "20.5.0",
+    "@types/react": "18.2.20",
+    "eslint": "^8.47.0",
+    "eslint-config-next": "13.4.16",
+    "eslint-plugin-next": "^0.0.0",
+    "eslint-plugin-react": "^7.33.1",
+    "eslint-plugin-react-hooks": "^4.6.0",
+    "husky": "^8.0.0",
+    "kill-port": "^2.0.1",
+    "prettier": "^3.0.2",
+    "typescript": "5.1.6"
+  }
+}
