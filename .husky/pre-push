@@ -2,7 +2,7 @@
 . "$(dirname -- "$0")/_/husky.sh"
 
 npx kill-port 3000
-pn lint
-pn build
-pn start
-pn test:e2e
+pnpm lint
+pnpm build
+pnpm start
+pnpm test:e2e
