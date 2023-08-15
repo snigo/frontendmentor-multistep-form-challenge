@@ -1,8 +1,0 @@
-#!/usr/bin/env sh
-. "$(dirname -- "$0")/_/husky.sh"
-
-npx kill-port 3000
-pnpm lint
-pnpm build
-pnpm start
-pnpm test:e2e
