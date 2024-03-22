@@ -22,7 +22,7 @@
   "devDependencies": {
     "@playwright/test": "^1.37.0",
     "@types/node": "20.11.30",
-    "@types/react": "18.2.67",
+    "@types/react": "18.2.68",
     "eslint": "^8.47.0",
     "eslint-config-next": "14.1.4",
     "eslint-plugin-next": "^0.0.0",
