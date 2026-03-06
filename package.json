@@ -16,18 +16,18 @@
   "license": "ISC",
   "dependencies": {
     "next": "^16.0.0",
-    "react": "^18.2.0",
-    "react-dom": "^18.2.0"
+    "react": "^19.0.0",
+    "react-dom": "^19.0.0"
   },
   "devDependencies": {
     "@playwright/test": "^1.37.0",
     "@types/node": "24.10.14",
-    "@types/react": "18.3.11",
+    "@types/react": "19.2.14",
     "eslint": "^10.0.0",
     "eslint-config-next": "16.1.6",
     "eslint-plugin-next": "^0.0.0",
     "eslint-plugin-react": "^7.33.1",
-    "eslint-plugin-react-hooks": "^5.0.0",
+    "eslint-plugin-react-hooks": "^7.0.0",
     "husky": "^9.0.0",
     "kill-port": "^2.0.1",
     "prettier": "^3.0.2",
